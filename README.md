@@ -1,1 +1,1 @@
-# L3T20
+This project uses three different neural networks (Dense Model, LSTM Model and Convolutional model) in Keras to perform Sentiment Analysis on Amazon book reviews, classifying them as either positive or negative. The models used are compared based on their performance, with a small dataset of positive and negative book reviews from Amazon being utilized.
